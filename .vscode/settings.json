@@ -1,0 +1,7 @@
+{
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "java": "cd \"$dir\" && javac \"$fileName\" && java \"$fileNameWithoutExt\""
+    },
+    "terminal.integrated.defaultProfile.windows": "Command Prompt"
+}
